@@ -1,4 +1,4 @@
-# Design Document
+# CS50 SQL - Final Project - Design Document
 
 By Harvest Walukow
 
